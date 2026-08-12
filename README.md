@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">
-  💻 B.Sc in CSE Student • Developer, Author & Music Creator
+  💻 B.Sc in CSE Student •
 </h3>
 
 <p align="center">
