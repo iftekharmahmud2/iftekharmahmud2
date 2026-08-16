@@ -44,11 +44,17 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://allmylinks.com/ifthekharmahmud" target="_blank">
-    <img src="https://img.shields.io/badge/AllMyLinks-000000?style=for-the-badge&logo=linktree&logoColor=00FF88" />
-  </a>
-  <a href="https://github.com/iftekharmahmud" target="_blank">
+  <a href="https://github.com/Iftekharmahmud2" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF88" />
+  </a>
+  <a href="https://instagram.com/iftekhaar_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+  </a>
+  <a href="https://linkedin.com/in/iftekharmahmud" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  </a>
+  <a href="https://iftekharmahmud.me" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=00FF88" />
   </a>
 </p>
 
