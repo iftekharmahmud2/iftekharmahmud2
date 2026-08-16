@@ -28,34 +28,8 @@
 
 ## 🧠 Tech Stack
 
-### 💻 Programming & Web
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,html,css" />
-</p>
-
-### ☁️ Cloud & Infrastructure
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,cloudflare" />
-</p>
-
-### 🛠️ Development & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
-### 🎨 Creative Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=photoshop,illustrator" />
-</p>
-
-### 🔐 Cybersecurity & Networking
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kali,linux,cisco" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,html,css,git,github,vscode,aws,cloudflare,photoshop,illustrator,kali,linux,cisco" />
 </p>
 
 ---
