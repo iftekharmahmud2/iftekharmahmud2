@@ -4,22 +4,25 @@
 </p>
 
 <h3 align="center">
-  💻 B.Sc in CSE Student •
+  💻 CSE Student • Cybersecurity & Networking Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=800&color=00FF88&center=true&vCenter=true&width=650&lines=Computer+Science+%26+Engineering+Student;Object-Oriented+Programming;Building+Cool+Software+%26+Projects;Author+%26+Digital+Creator" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=800&color=00FF88&center=true&vCenter=true&width=650&lines=CSE+Student;Learning+Technology;Cybersecurity+Enthusiast;Networking+Enthusiast;Digital+Creator;Web+%26+Software+Development;Author+%26+Music+Creator" />
 </p>
 
 ---
 
 ## ⚡ About Me
 
-- 🎓 **B.Sc in Computer Science & Engineering (CSE)** student
-- 💻 Passionate about **Software Engineering & Object-Oriented Programming**
-- 🎨 Multi-disciplinary creator active across **coding, authoring, and music production**
-- 🔨 Focused on **building functional software, learning algorithms & shipping projects**
-- 🎯 Vision: Becoming a **high-impact software engineer and digital creator**
+**CSE Student • Cybersecurity & Networking Enthusiast • Author • Digital Creator**
+
+🔐 Exploring **Cybersecurity, Network Security & Ethical Hacking**  
+🌐 Learning **Web Development, Software & Networking**  
+💻 Building with **Programming, Algorithms & Modern Technologies**  
+🎨 Creating through **Writing, Music & Digital Creativity**
+
+> **Learn • Build • Secure • Create**
 
 ---
 
@@ -61,5 +64,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff88&height=120&section=footer&text=Code%20with%20purpose%20%E2%80%A2%20Build%20with%20impact&fontSize=20&fontColor=000000" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff88&height=120&section=footer&text=Learn%20%E2%80%A2%20Build%20%E2%80%A2%20Secure%20%E2%80%A2%20Create&fontSize=20&fontColor=000000" />
 </p>
